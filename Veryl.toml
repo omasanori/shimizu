@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2026 Masanori Ogino
+# SPDX-License-Identifier: CC0-1.0
+
+[project]
+name = "shimizu"
+version = "0.1.0"
+[build]
+sources = ["src"]
+target = {type = "directory", path = "target"}

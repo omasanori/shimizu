@@ -1,0 +1,8 @@
+// SPDX-FileCopyrightText: 2026 Masanori Ogino
+// SPDX-License-Identifier: CERN-OHL-P-2.0
+
+module Top {
+    initial {
+        $display("Hello, world!");
+    }
+}
